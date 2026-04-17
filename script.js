@@ -12,3 +12,6 @@ function boh() {
 function asd() {
     
 }
+
+
+alert("ooo");
