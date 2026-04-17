@@ -3,3 +3,5 @@ def
 felice
 bello
 figo
+felice
+scala
