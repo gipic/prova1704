@@ -8,3 +8,7 @@ function ciao() {
 function boh() {
     
 }
+
+function asd() {
+    
+}
